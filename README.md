@@ -53,8 +53,24 @@ La herramienta mas importante para trabajar con git es la terminal o la linea de
 Cuando hay un equipo distribuido con mucha distancia se deben usar repositorios en la nube lo cual serian ramas remotas las cuales suelen ser llamadas origin Github es una empresa que da un servicio en la nube y git es la tecnologia que esta por debajo realmente no son lo mismo y no es obligatorio el guardar los repositorios en este hay mas empresas que prestan este servicio dependera de lo que deseen los desarrolladores o la empresa.
 
 ### Ides y editores
-
 Git esta integrado en gran variedad de ides y editores de codigo por ejmeplo VS Code, Intellij Idea y atom.
+## Como crear un repositorio git 
+1. Crear un repositorio local
+- Creamos una carpeta y ponemos el nombre que queramos<br>
+- <img width="757" height="33" alt="image" src="https://github.com/user-attachments/assets/29400f81-2653-47f1-854c-3f9de17d7864" />
+2. Abrir Git Bash dentro de esa carpeta. <br>
+- <img width="375" height="41" alt="image" src="https://github.com/user-attachments/assets/ddd52860-dff5-46ae-9a91-9c0c4a700580" />
+3. Escribimos el comando para inicializar <br>
+- <img width="576" height="97" alt="image" src="https://github.com/user-attachments/assets/086b5344-19dd-4d33-8cd6-c1c80a8a61f9" />
+4. agregamos todos los archivos del proyecto con el comando 'git add .'
+- <img width="424" height="53" alt="image" src="https://github.com/user-attachments/assets/aec39a3f-de66-43ef-ace8-79c7784dd687" />
+5. Guardamos los cambios con un commit con el comando:
+- <img width="584" height="112" alt="image" src="https://github.com/user-attachments/assets/440aefca-41f7-4c92-93be-6b964bfc86c5" />
+
+
+
+
+
 
 
 
