@@ -69,7 +69,7 @@ Git esta integrado en gran variedad de ides y editores de codigo por ejmeplo VS 
 6. agregamos nuestro perfil de github para subir el repositorio
 - <img width="622" height="27" alt="image" src="https://github.com/user-attachments/assets/1f926f3f-07dd-492e-8a60-bde344eab715" />
 7. al ser primera vez pedira iniciar sesion en github y ponemos el comando
--<img width="664" height="290" alt="image" src="https://github.com/user-attachments/assets/f0623c23-319e-4a35-822c-d96ca1587d45" />
+- <img width="664" height="290" alt="image" src="https://github.com/user-attachments/assets/f0623c23-319e-4a35-822c-d96ca1587d45" />
 8. usamos el comando push
 - <img width="430" height="73" alt="image" src="https://github.com/user-attachments/assets/66102418-59e1-4b82-85f7-e73bd552fc2a" />
 
